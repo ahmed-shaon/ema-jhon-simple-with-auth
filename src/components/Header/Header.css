@@ -4,8 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 140px;
-    padding-right: 140px;
+    padding-left: 120px;
+    padding-right: 120px;
 }
 
 .header a{
@@ -16,4 +16,12 @@
 }
 .header a:hover{
     color: orange;
+}
+.btn-logout{
+    margin-left: 20px;
+    padding: 8px 4px;
+    border-radius: 6px;
+    border: 0;
+    background-color: salmon;
+    color: #FFFFFF;
 }
